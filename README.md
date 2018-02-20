@@ -1,2 +1,2 @@
-# DLND Tv Script Generation Project
+# DLND TV Script Generation Project
 The project is in progress.
