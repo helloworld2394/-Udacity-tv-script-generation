@@ -1,2 +1,2 @@
-# -Udacity-tv-script-generation
-Udacity DLND tv script generation project
+# DLND Tv Script Generation Project
+The project is in progress.
